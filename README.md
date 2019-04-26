@@ -1,2 +1,2 @@
 # TestRepo
-Just to test things.
+Developers are very lazy but smart people.
